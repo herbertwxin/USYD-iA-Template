@@ -1,0 +1,45 @@
+{
+  "Presets": [
+    {
+      "Name": "Default",
+      "TitleFont": "San Francisco",
+      "BodyFont": "Arial",
+      "Appearance" : "dark",
+      "DarkBodyTextColor": "#E64626",
+      "LightBodyTextColor": "#414141",
+      "DarkTitleTextColor": "#fff",
+      "LightTitleTextColor": "#E64626",
+      "DarkBackgroundColor": "#fff",
+      "LightBackgroundColor": "transparent",
+      "DarkAccent1": "#fff",
+      "LightAccent1": "#E64626",
+      "Accent1": "#E64626",
+      "Accent2": "#414141",
+      "Accent3": "#DAA8A2",
+      "Accent4": "#8F9EC9",
+      "Accent5": "#1A345E",
+      "Accent6": "#71A399",
+      "LightBgGradient":[
+          "#E64626",
+          "#414141",
+          "#DAA8A2",
+          "#8F9EC9",
+          "#1A345E",
+          "#71A399",
+      ],
+  "DarkBgGradient":[
+          "#004B72",
+          "#1C238D",
+          "#320090",
+          "#51009D",
+          "#67008C",
+          "#73006F",
+          "#7D004E",
+          "#7C0010",
+          "#9E2D00",
+          "#A45400",
+          "#9D7900"
+      ]
+    }
+  ]
+}

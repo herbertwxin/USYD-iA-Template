@@ -1,0 +1,9 @@
+{
+  "Version" : 1,
+  "Description" : "A theme designed to produce presentation for University of Sydney",
+  "BodyFont" : "Arial",
+  "Author" : "Herbert W. Xin",
+  "Name" : "University of Sydney",
+  "TitleFont" : "San Franciso",
+  "Css" : "university of sydney.css"
+}
